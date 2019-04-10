@@ -13,4 +13,5 @@ func main() {
 	//ifElse()
 	//switchs()
 	//arrays()
+	slice()
 }
