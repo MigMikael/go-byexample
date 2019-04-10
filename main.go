@@ -1,12 +1,16 @@
 package main
 
+// go build .
+// go-byexample
+// go build ./ && ./go-byexample
+
 func main() {
 	//helloWorld()
 	//values()
 	//variables()
 	//constants()
 	//fors()
-	//if_else()
+	//ifElse()
 	//switchs()
-
+	//arrays()
 }
